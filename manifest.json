@@ -1,6 +1,6 @@
 {
     "name": "Date Sort for Facebook™ Groups",
-    "description": "A chrome extension that sorts the Facebook™ groups search results by date (newest first).",
+    "description": "A chrome extension that sorts the Facebook™ Buy & Sell groups search results by date (newest first).",
     "manifest_version": 2,
     "version": "1.0.0",
     "icons": {

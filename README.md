@@ -1,8 +1,12 @@
 # Date Sort for Facebook™ Groups
 
-A chrome extension that sorts the Facebook™ groups search results by date (newest first).
+A chrome extension that sorts the Facebook™ Buy &amp; Sell groups' search results by date (newest first).
 
 > Note: This extension is not officially endorsed by Facebook™.
+
+# Live Demo
+
+[See results sorted by date](https://www.facebook.com/groups/507060923027883/search/?q=toyota&filters=eyJycF9jaHJvbm9fc29ydDowIjoie1wibmFtZVwiOlwiY2hyb25vc29ydFwiLFwiYXJnc1wiOlwiXCJ9IiwiZmlsdGVyX2JzZ19zZWFyY2hfbGF5b3V0OjAiOiJ7XCJuYW1lXCI6XCJmaWx0ZXJfYnNnX3NlYXJjaF9saXN0X2xheW91dFwiLFwiYXJnc1wiOlwiXCJ9In0%3D)
 
 # Usage
 
